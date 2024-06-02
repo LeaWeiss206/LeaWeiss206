@@ -2,7 +2,7 @@
 
 # About Me
 
-Hi there! I'm Lea, a software engineering student passionate about building innovative solutions and exploring new technologies. Here's a glimpse of my skills and experiences:
+Hi there! I'm Leah, a software engineering student who is passionate about building innovative solutions and researching new technologies. Here is a glimpse of my skills and experience:
 
 
 
