@@ -23,6 +23,8 @@ Hi there! I'm Leah, a software engineering student who is passionate about build
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/WebAPI" target="_blank"> <img src="https://img.icons8.com/color/48/000000/api.png" alt="Web API" width="40" height="40"/> </a>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeaWeiss206&show_icons=true&locale=en&theme=dracula" alt="LeaWeiss206" />
 </p>
