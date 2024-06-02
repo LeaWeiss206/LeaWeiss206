@@ -1,51 +1,41 @@
+
+
 # About Me
 
-Hi there! I'm Lea a software engineering student passionate about building innovative solutions and exploring new technologies. Here's a glimpse of my skills and experiences:
+Hi there! I'm [Your Name], a software engineering student passionate about building innovative solutions and exploring new technologies. Here's a glimpse of my skills and experiences:
 
 ## Skills and Technologies
 
-### Programming Languages:
-- Node.js
-- C#
-- Python
-- Java
-- C
-- C++
-
 ### Frontend:
-- JavaScript (ES6)
-- HTML5
-- CSS
-- React
+![JavaScript](link_to_image)
+![HTML5](link_to_image)
+![CSS](link_to_image)
+![React](link_to_image)
 
 ### Backend:
-- Python
-- C#
-- Node.js
+![Node.js](link_to_image)
+![.NET Core](link_to_image)
 
 ### Databases:
-- SQL
-- NoSQL (MongoDB)
+![SQL](link_to_image)
+![NoSQL](link_to_image)
 
 ### Version Control:
-- GitHub
+![GitHub](link_to_image)
 
 ### Advanced Technologies:
-- Web API
-- .NET Core
-- Docker
+![Web API](link_to_image)
+![Docker](link_to_image)
 
 ### Libraries/Frameworks:
-- FastAPI
-- Pandas
-- Matplotlib
-- Pytest
-- Pymysql
-- Hibernate
-- Spring
-- Java 8
-- Maven
-- React Redux
+![FastAPI](link_to_image)
+![Pandas](link_to_image)
+![Matplotlib](link_to_image)
+![Pytest](link_to_image)
+![Hibernate](link_to_image)
+![Spring](link_to_image)
+![Maven](link_to_image)
+![React Redux](link_to_image)
 
 ### Advanced Topics:
 - Cloud Computing
@@ -54,16 +44,9 @@ Hi there! I'm Lea a software engineering student passionate about building innov
 ### Software Design:
 - Design Patterns
 
-### Background Disciplines:
-- Mathematics
-- Discrete Mathematics
-- Algorithms
-- Data Structures
-- Operating Systems
-- Digital Systems
-- Technical English
-- Communication and Networks
-- Architecture
-- Systems Analysis
+### Software Design:
+- Design Patterns
+
+
 
 I'm constantly learning and eager to collaborate on exciting projects. Let's connect and create something amazing together!
