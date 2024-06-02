@@ -7,35 +7,35 @@ Hi there! I'm [Your Name], a software engineering student passionate about build
 ## Skills and Technologies
 
 ### Frontend:
-![JavaScript](link_to_image)
-![HTML5](link_to_image)
-![CSS](link_to_image)
-![React](link_to_image)
+![JavaScript](https://source.unsplash.com/1600x900/?javascript)
+![HTML5](https://source.unsplash.com/1600x900/?html5)
+![CSS](https://source.unsplash.com/1600x900/?css)
+![React](https://source.unsplash.com/1600x900/?react)
 
 ### Backend:
-![Node.js](link_to_image)
-![.NET Core](link_to_image)
+![Node.js](https://source.unsplash.com/1600x900/?nodejs)
+![.NET Core](https://source.unsplash.com/1600x900/?dotnet)
 
 ### Databases:
-![SQL](link_to_image)
-![NoSQL](link_to_image)
+![SQL](https://source.unsplash.com/1600x900/?sql)
+![NoSQL](https://source.unsplash.com/1600x900/?nosql)
 
 ### Version Control:
-![GitHub](link_to_image)
+![GitHub](https://source.unsplash.com/1600x900/?github)
 
 ### Advanced Technologies:
-![Web API](link_to_image)
-![Docker](link_to_image)
+![Web API](https://source.unsplash.com/1600x900/?webapi)
+![Docker](https://source.unsplash.com/1600x900/?docker)
 
 ### Libraries/Frameworks:
-![FastAPI](link_to_image)
-![Pandas](link_to_image)
-![Matplotlib](link_to_image)
-![Pytest](link_to_image)
-![Hibernate](link_to_image)
-![Spring](link_to_image)
-![Maven](link_to_image)
-![React Redux](link_to_image)
+![FastAPI](https://source.unsplash.com/1600x900/?fastapi)
+![Pandas](https://source.unsplash.com/1600x900/?pandas)
+![Matplotlib](https://source.unsplash.com/1600x900/?matplotlib)
+![Pytest](https://source.unsplash.com/1600x900/?pytest)
+![Hibernate](https://source.unsplash.com/1600x900/?hibernate)
+![Spring](https://source.unsplash.com/1600x900/?spring)
+![Maven](https://source.unsplash.com/1600x900/?maven)
+![React Redux](https://source.unsplash.com/1600x900/?reactredux)
 
 ### Advanced Topics:
 - Cloud Computing
