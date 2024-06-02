@@ -23,6 +23,7 @@ Hi there! I'm Lea, a software engineering student passionate about building inno
 <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/WebAPI" target="_blank"> <img src="https://img.icons8.com/color/48/000000/api.png" alt="Web API" width="40" height="40"/> </a>
 
 
 
