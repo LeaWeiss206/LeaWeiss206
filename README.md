@@ -25,8 +25,4 @@ Hi there! I'm Leah, a software engineering student who is passionate about build
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/WebAPI" target="_blank"> <img src="https://img.icons8.com/color/48/000000/api.png" alt="Web API" width="40" height="40"/> </a>
 
 
-
-
-
-
-I'm constantly learning and eager to collaborate on exciting projects. Let's connect and create something amazing together!
+I am constantly learning and interested in collaborating on exciting projects. Let's connect and create something amazing together!
