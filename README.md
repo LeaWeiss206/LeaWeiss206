@@ -24,15 +24,5 @@ Hi there! I'm Leah, a software engineering student who is passionate about build
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/WebAPI" target="_blank"> <img src="https://img.icons8.com/color/48/000000/api.png" alt="Web API" width="40" height="40"/> </a>
 
-- Check out my [portfolio website](https://your-portfolio-website.com) for more details about my projects and contributions.
-- Here are some of my recent projects:
-  - [Project Name 1](https://project-url.com): Description of the project.
-  - [Project Name 2](https://project-url.com): Description of the project.
-  - [Project Name 3](https://project-url.com): Description of the project.
-
-## Articles and Blogs
-
-- Read my latest article on [Medium](https://medium.com/@your-username) about web development best practices.
-- Visit my blog [here](https://your-blog-url.com) for more insights and tutorials.
 
 I am constantly learning and interested in collaborating on exciting projects. Let's connect and create something amazing together!
