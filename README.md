@@ -28,4 +28,6 @@ Hi there! I'm Leah, a software engineering student who is passionate about build
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeaWeiss206&show_icons=true&locale=en&layout=compact&theme=dracula" alt="LeaWeiss206" />
 </p>
 
+
+
 I am constantly learning and interested in collaborating on exciting projects. Let's connect and create something amazing together!
