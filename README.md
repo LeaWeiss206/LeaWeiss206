@@ -1,16 +1,69 @@
-## Hi there 👋
+# About Me
 
-<!--
-**LeaWeiss206/LeaWeiss206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Lea a software engineering student passionate about building innovative solutions and exploring new technologies. Here's a glimpse of my skills and experiences:
 
-Here are some ideas to get you started:
+## Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages:
+- Node.js
+- C#
+- Python
+- Java
+- C
+- C++
+
+### Frontend:
+- JavaScript (ES6)
+- HTML5
+- CSS
+- React
+
+### Backend:
+- Python
+- C#
+- Node.js
+
+### Databases:
+- SQL
+- NoSQL (MongoDB)
+
+### Version Control:
+- GitHub
+
+### Advanced Technologies:
+- Web API
+- .NET Core
+- Docker
+
+### Libraries/Frameworks:
+- FastAPI
+- Pandas
+- Matplotlib
+- Pytest
+- Pymysql
+- Hibernate
+- Spring
+- Java 8
+- Maven
+- React Redux
+
+### Advanced Topics:
+- Cloud Computing
+- Introduction to Information Security
+
+### Software Design:
+- Design Patterns
+
+### Background Disciplines:
+- Mathematics
+- Discrete Mathematics
+- Algorithms
+- Data Structures
+- Operating Systems
+- Digital Systems
+- Technical English
+- Communication and Networks
+- Architecture
+- Systems Analysis
+
+I'm constantly learning and eager to collaborate on exciting projects. Let's connect and create something amazing together!
