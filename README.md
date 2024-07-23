@@ -28,11 +28,12 @@ Here is a glimpse of my skills and experience:
 <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 
 ### Embedded Systems
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://wokwi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wokwi/wokwi-original.svg" alt="Wokwi" width="40" height="40"/> </a>
+<a href="https://platformio.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/platformio/platformio-original.svg" alt="PlatformIO" width="40" height="40"/> </a>
 
 ### Databases
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
@@ -45,23 +46,12 @@ Here is a glimpse of my skills and experience:
 
 ### Additional Skills
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 
 ### Advanced Technologies
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/WebAPI" target="_blank"> <img src="https://img.icons8.com/color/48/000000/api.png" alt="Web API" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
-
-### Libraries
-<a href="https://fastapi.tiangolo.com/" target="_blank"> FastAPI </a>, 
-<a href="https://pandas.pydata.org/" target="_blank"> Pandas </a>, 
-<a href="https://matplotlib.org/" target="_blank"> Matplotlib </a>, 
-<a href="https://docs.pytest.org/en/stable/" target="_blank"> Pytest </a>, 
-<a href="https://pymysql.readthedocs.io/en/latest/" target="_blank"> Pymysql </a>, 
-<a href="https://hibernate.org/" target="_blank"> Hibernate </a>, 
-<a href="https://spring.io/" target="_blank"> Spring </a>, 
-<a href="https://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html" target="_blank"> Java 8 </a>, 
-<a href="https://maven.apache.org/" target="_blank"> Maven </a>, 
-<a href="https://redux.js.org/" target="_blank"> React Redux </a>
 
 ### Advanced Topics
 Cloud, Introduction to Information Security
