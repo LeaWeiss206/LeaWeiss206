@@ -2,7 +2,7 @@
 
 Hi there! I'm Lea, a passionate software engineer with expertise in front-end, back-end, and embedded systems development. I love solving complex problems and continuously learning new technologies to build user-centric applications that make a meaningful impact. If you'd like to get in touch, feel free to reach out via email at lea86206@gmail.com.
 
-## Skills & Experience
+
 
 ### Languages and Tools
 
@@ -33,10 +33,8 @@ Hi there! I'm Lea, a passionate software engineer with expertise in front-end, b
 <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></a>
 <a href="https://jupyter.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="45" height="45"/></a>
 <a href="https://www.anaconda.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/></a>
-<a href="https://wokwi.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/wokwi/wokwi.png" alt="Wokwi" width="40" height="40"/> </a>
-<a href="https://platformio.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/42793930?s=280&v=4" alt="PlatformIO" width="40" height="40"/> </a>
-</p>
 
+## Github Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeaWeiss206&show_icons=true&locale=en&layout=compact&theme=dracula" alt="LeaWeiss206" />
 </p>
