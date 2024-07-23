@@ -4,6 +4,8 @@ Hi there! I'm Lea, a passionate software engineer with expertise in front-end, b
 
 ## Skills & Experience
 
+### Languages and Tools
+
 <p align="left">
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -31,6 +33,8 @@ Hi there! I'm Lea, a passionate software engineer with expertise in front-end, b
 <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></a>
 <a href="https://jupyter.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="45" height="45"/></a>
 <a href="https://www.anaconda.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/></a>
+<a href="https://wokwi.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wokwi/wokwi-icons/main/icon-512x512.png" alt="Wokwi" width="40" height="40"/> </a>
+<a href="https://platformio.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/platformio/platformio-core/develop/docs/source/_static/logo.png" alt="PlatformIO" width="40" height="40"/> </a>
 </p>
 
 <p>
