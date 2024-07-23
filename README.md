@@ -2,7 +2,6 @@
 
 Hi there! I'm Lea, a dedicated software engineer with a passion for crafting innovative solutions and diving into new technologies. With a strong background in both front-end and back-end development, I strive to build high-quality, user-centric applications that solve real-world problems.
 
-## About Me
 
 My journey in tech began with a fascination for how software can transform ideas into reality. Over the years, I've developed a deep understanding of various technologies and best practices. My experience spans multiple programming languages, frameworks, and tools, which I leverage to create efficient and scalable solutions.
 
@@ -13,6 +12,8 @@ I am driven by the challenge of solving complex problems and the excitement of c
 ### Professional Philosophy
 
 I believe in writing clean, maintainable code and continuously improving both my skills and the projects I work on. Collaboration and communication are key to successful project outcomes, and I always strive to ensure that my work aligns with the goals and vision of the team.
+
+I am currently exploring new opportunities and am open to discussing how I can contribute to your team or project. If you'd like to get in touch, feel free to reach out via email at lea86206@gmail.com.
 
 ## Skills & Experience
 
@@ -53,6 +54,4 @@ Here is a glimpse of my skills and experience:
 </p>
 
 <br>
-I am constantly learning and exploring new opportunities in the tech field. If you'd like to discuss potential collaborations or opportunities, feel free to reach out to me at lea86206@gmail.com.
-
- 
+I am constantly learning and excited about opportunities to work on impactful projects. If you're interested in collaborating or have any opportunities, feel free to reach out to me at lea86206@gmail.com.
