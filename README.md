@@ -1,10 +1,8 @@
 # About Me
 
-Hi there! I'm Lea, a passionate software engineer with expertise in front-end, back-end, and embedded systems development. I love solving complex problems and continuously learning new technologies to build user-centric applications that make a meaningful impact. If you'd like to get in touch, feel free to reach out via email at lea86206@gmail.com.
+Hi there! I'm Lea, a passionate software engineer with expertise in front-end, back-end, and embedded systems development. I love solving complex problems and continuously learning new technologies to build user-centric applications that make a meaningful impact. Recently, I’ve been working on [project name or description] which has been an exciting challenge. If you'd like to get in touch, feel free to reach out via email at lea86206@gmail.com.
 
-
-
-### Languages and Tools
+## Languages and Tools
 
 <p align="left">
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
@@ -34,7 +32,10 @@ Hi there! I'm Lea, a passionate software engineer with expertise in front-end, b
 <a href="https://jupyter.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="45" height="45"/></a>
 <a href="https://www.anaconda.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/></a>
 
-## Github Stats
+## GitHub Stats
+
+Here’s a quick look at my GitHub activity and languages I use most frequently:
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeaWeiss206&show_icons=true&locale=en&layout=compact&theme=dracula" alt="LeaWeiss206" />
 </p>
