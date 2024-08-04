@@ -1,4 +1,4 @@
-86# About Me
+# About Me
 
 Hi there! I'm Lea, a passionate software engineer with expertise in front-end, back-end, and embedded systems development. I love solving complex problems and continuously learning new technologies to build user-centric applications that make a meaningful impact.  If you'd like to get in touch, feel free to reach out via email at lea86206@gmail.com.
 
